@@ -55,8 +55,8 @@ body:
       label: Version Information
       description: |
                    If multiple versions are involved, please inform us of all corresponding version numbers to facilitate our reproduction of the issue.
-      validations:
-      required: true
+    validations:
+       required: true
   - type: markdown
     attributes:
       value: >

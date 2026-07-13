@@ -2,7 +2,7 @@ name: 🚀 Feature request
 description: Submit a proposal/request for new features of openJiuwen
 title: "[Feature]: "
 labels: ["feature"]
-
+type: "Feature"
 body:
 - type: textarea
   attributes:
@@ -10,6 +10,7 @@ body:
       🚀 Background Description
     description: |
       Please clearly and concisely describe the content of this feature proposal. Explain the motivation for proposing it. Is your feature request related to a specific problem? For example: "I am developing feature X and hope to implement feature Y". If this request is related to other Issues on GitCode, please attach the links here:
+  validations:
     required: true
 - type: textarea
   attributes:
