@@ -10,7 +10,7 @@
 
 # English
 
-openJiuwen is an open-source community dedicated to building a general-purpose AI Agent platform.
+openJiuwen is an open-source community dedicated to building a production-ready AI Agent platform.
 
 Our goal is to provide an easy-to-use, flexible, and stable foundation for developing intelligent agents, and to accelerate the adoption of commercial-grade Agentic AI technologies in real-world applications.
 
