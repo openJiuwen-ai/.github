@@ -4,7 +4,7 @@
 
 Welcome to contribute to the openJiuwen community. openJiuwen is an open-source Agent platform dedicated to providing flexible, powerful, and easy-to-use capabilities for developing and running AI Agents. We encourage developers to participate in many ways, including but not limited to code contributions, documentation improvements, issue reports, and feature suggestions.
 
-This guide covers the common collaboration practices for repositories under the [openJiuwen-ai](https://github.com/openJiuwen-ai) organization. For the full contribution path, see also the website: [Join the openJiuwen open-source community](https://www.openjiuwen.com/contribute).
+This guide covers the common collaboration practices for repositories under the [openJiuwen-ai](https://github.com/openJiuwen-ai) organization. For the full contribution path, see also the website: [Join the openJiuwen open-source community](https://www.openjiuwen.com/en/contribute).
 
 ## Code Hosting
 
@@ -18,7 +18,7 @@ Therefore, please avoid filing duplicate Issues or Pull Requests for the same ma
 
 ## Before You Start
 
-- Before contributing, please read and follow the [openJiuwen Community Code of Conduct](https://github.com/openJiuwen-ai/community/blob/main/openJiuwen社区行为准则.md).
+- Before contributing, please read and follow the [openJiuwen Community Code of Conduct](https://github.com/openJiuwen-ai/community/blob/main/openJiuwen-Community-Code-of-Conduct.md).
 - You must sign the openJiuwen community Contributor License Agreement (CLA) before contributing. GitHub repositories use [CLA Assistant](https://github.com/cla-assistant/cla-assistant): when you open your first Pull Request to a repository, CLA Assistant will comment on the PR with a signing link—follow the prompts to complete signing. After you have signed, later PRs usually do not require signing again.
 - Find a repository you are interested in under [openJiuwen-ai](https://github.com/openJiuwen-ai), and read that repository’s `README` and related docs first.
 
@@ -28,7 +28,7 @@ Therefore, please avoid filing duplicate Issues or Pull Requests for the same ma
 
 ## Copyright Guidelines
 
-Code you submit must be original and must not infringe others’ intellectual property rights. When contributing code, follow the [License and Copyright Guidelines](https://gitcode.com/openjiuwen/community/tree/main/contribute/许可证与版权规范.md). If new contributions involve introducing third-party open-source software or quoting fragments, strictly follow the requirements in the [License and Special License Guidance](https://gitcode.com/openjiuwen/community/tree/main/contribute/许可证与特殊许可证评审指导.md).
+Code you submit must be original and must not infringe others’ intellectual property rights. When contributing code, follow the [License and Copyright Guidelines](https://github.com/openjiuwen-ai/community/tree/main/contribute/License-and-Copyright-Guidelines.md). If new contributions involve introducing third-party open-source software or quoting fragments, strictly follow the requirements in the [License and Special License Guidance](https://github.com/openjiuwen-ai/community/tree/main/contribute/License-and-Special-License-Review-Guidelines.md).
 
 openJiuwen reserves the right to modify or remove contributed content according to the relevant guidelines until it meets the corresponding requirements.
 
